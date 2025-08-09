@@ -1,0 +1,1 @@
+# O-que-s-o-identidades-gerenciadas-para-recursos-do-Azure
